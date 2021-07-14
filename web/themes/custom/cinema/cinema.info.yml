@@ -4,8 +4,8 @@ description:  'Custom Cinema Theme'
 core_version_requirement: ^8 || ^9
 base theme:  classy
 libraries:
-  - cinema/global
-  - cinema/global
+  - cinema/global-styling
+  - cinema/global-scripts
 regions:
   header: Header
   primary_menu: 'Primary menu'

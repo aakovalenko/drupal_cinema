@@ -1,1 +1,1 @@
-console.log('global js');
+console.log('its global js');
