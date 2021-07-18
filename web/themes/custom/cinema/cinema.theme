@@ -1,0 +1,4 @@
+<?php
+function foo_preprocess_node(&$variables) {
+  $variables['foo_example'] = theme_get_setting('foo_example');
+}
